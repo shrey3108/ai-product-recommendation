@@ -61,7 +61,7 @@ product-recommendation-system/
 ## Technologies Used
 
 - React 18
-- Google Gemini Pro 1.5 API
+- gemini-2.5-flash 
 - JavaScript ES6+
 - CSS3
 
